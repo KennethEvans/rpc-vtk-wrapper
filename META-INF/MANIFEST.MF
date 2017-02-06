@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: VTK
-Bundle-SymbolicName: net.kenevans.vtk;singleton:=true
+Bundle-SymbolicName: net.kenevans.rcp.vtk;singleton:=true
 Bundle-Version: 5.4.0
 Bundle-Vendor: VTK
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
